@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
 #p1::before{
     content: "BEFORE ELEMENT ";
-	color:red;
+	color:rgb(255, 0, 0);
 }
 
 #p1::after{
     content: " AFTER ELEMENT";
-	color:red;
+	color:rgb(255, 0, 0);
 }
