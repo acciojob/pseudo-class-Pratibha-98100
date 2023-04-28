@@ -2,9 +2,13 @@
 div::before{
     content: "BEFORE ELEMENT ";
 	color:rgb(255, 0, 0);
+	font-size:20px;
+	font-weight:bold;
 }
 
 div::after{
     content: " AFTER ELEMENT";
 	color:rgb(255, 0, 0);
+	font-size:20px;
+	font-weight:bold;
 }
